@@ -1,16 +1,26 @@
-# Exercises for Deep Learning Fundamentals (cd13378)
+# Exercises for Foundation Models (cd12996)
 
-This repository contains the Jupyter notebook exercises for the Udacity course Deep Learning Fundamentals (cd13307).
+This repository contains the Jupyter notebook exercises for the Udacity course Foundation Models (cd12996).
 
 Each exercise folder contains separate notebooks for completing the exercise (in `starter`) and for the exercise solution (in `solution`).
 
 ```bash
 .
-└── Exercise1-use-a-foundation-model-to-build-a-spam-email-classifier
+├── Exercise1-classification-of-handwritten-digits-using-an-mlp
+│   ├── solution
+│   │   └── Exercise1-classification-of-handwritten-digits-using-an-mlp.ipynb
+│   └── starter
+│       └── Exercise1-classification-of-handwritten-digits-using-an-mlp.ipynb
+├── Exercise2-pytorch-and-hugging-face-scavenger-huntscavenger-hunt
+│   ├── solution
+│   │   └── Exercise2-pytorch-and-hugging-face-scavenger-huntscavenger-hunt.ipynb
+│   └── starter
+│       └── Exercise2-pytorch-and-hugging-face-scavenger-huntscavenger-hunt.ipynb
+└── Exercise3-transfer-learning-using-mobilenetv3
     ├── solution
-    │   └── Exercise1-use-a-foundation-model-to-build-a-spam-email-classifier.ipynb
+    │   └── Exercise3-transfer-learning-using-mobilenetv3.ipynb
     └── starter
-        └── Exercise1-use-a-foundation-model-to-build-a-spam-email-classifier.ipynb
+        └── Exercise3-transfer-learning-using-mobilenetv3.ipynb
 ```
 
 ## Environment Requirements and Installation
