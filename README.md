@@ -6,21 +6,11 @@ Each exercise folder contains separate notebooks for completing the exercise (in
 
 ```bash
 .
-├── Exercise1-classification-of-handwritten-digits-using-an-mlp
-│   ├── solution
-│   │   └── Exercise1-classification-of-handwritten-digits-using-an-mlp.ipynb
-│   └── starter
-│       └── Exercise1-classification-of-handwritten-digits-using-an-mlp.ipynb
-├── Exercise2-pytorch-and-hugging-face-scavenger-huntscavenger-hunt
-│   ├── solution
-│   │   └── Exercise2-pytorch-and-hugging-face-scavenger-huntscavenger-hunt.ipynb
-│   └── starter
-│       └── Exercise2-pytorch-and-hugging-face-scavenger-huntscavenger-hunt.ipynb
-└── Exercise3-transfer-learning-using-mobilenetv3
+└── Exercise1-use-a-foundation-model-to-build-a-spam-email-classifier
     ├── solution
-    │   └── Exercise3-transfer-learning-using-mobilenetv3.ipynb
+    │   └── Exercise1-use-a-foundation-model-to-build-a-spam-email-classifier.ipynb
     └── starter
-        └── Exercise3-transfer-learning-using-mobilenetv3.ipynb
+        └── Exercise1-use-a-foundation-model-to-build-a-spam-email-classifier.ipynb
 ```
 
 ## Environment Requirements and Installation
